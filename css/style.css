@@ -31,17 +31,5 @@ body>main {
 }
 
 .minHeight {
-    min-height: 80vh;
-}
-
-#col1 {
-    background-color: black;
-    color: white;
-    height: 450px;
-}
-
-#col2 {
-    background-color: gray;
-    color: white;
-    height: 450x;
+    min-height: 70vh;
 }
